@@ -40,4 +40,4 @@ Based on the simulation data, the following design optimizations are proposed:
 * `/Images` - Simulation contour plots and graphs.
 
 ---
-*Project completed by sachin salaskar* | *https://www.linkedin.com/in/sachinsalaskar10/*# Gearbox-FEA-Analysis
+*Project completed by sachin salaskar* | *https://www.linkedin.com/in/sachinsalaskar10/* Gearbox-FEA-Analysis
